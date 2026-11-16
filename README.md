@@ -1,9 +1,5 @@
-## Hi there 👋
+## Hi there 👋Glad you're here to explore my work!
 
-
-
-
-# **Anshika Chauhan 👋**
 
 ### 📊 **Aspiring Data Analyst | Business Intelligence**
 
@@ -32,4 +28,5 @@ I work with data to uncover patterns, identify trends, and translate complex inf
 - 💻 Strengthening SQL and Power BI.
 - 📊 Developing business-focused dashboards.
 
+That's a little about me. Thanks for being here, and happy exploring! 💗
 
